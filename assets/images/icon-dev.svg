@@ -1,0 +1,21 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Database icon -->
+  <path d="M4 10C4 8.89543 4.89543 8 6 8H34C35.1046 8 36 8.89543 36 10V30C36 31.1046 35.1046 32 34 32H6C4.89543 32 4 31.1046 4 30V10Z" fill="#FFDB6E"/>
+  <!-- Table inside the database -->
+  <rect x="9" y="14" width="22" height="12" fill="#F2F2F2" stroke="#E0E0E0" stroke-width="0.5"/>
+  <!-- Vertical lines inside the table -->
+  <line x1="15" y1="15" x2="15" y2="26" stroke="#CCCCCC" stroke-width="1"/>
+  <line x1="25" y1="15" x2="25" y2="26" stroke="#CCCCCC" stroke-width="1"/>
+  <!-- Horizontal lines inside the table -->
+  <line x1="10" y1="18" x2="30" y2="18" stroke="#CCCCCC" stroke-width="1"/>
+  <line x1="10" y1="21" x2="30" y2="21" stroke="#CCCCCC" stroke-width="1"/>
+  <line x1="10" y1="24" x2="30" y2="24" stroke="#CCCCCC" stroke-width="1"/>
+  <line x1="10" y1="27" x2="30" y2="27" stroke="#CCCCCC" stroke-width="1"/>
+  <!-- Text: "DB" -->
+  <text x="20" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">DB</text>
+  <!-- Additional details -->
+  <circle cx="20" cy="7" r="3" fill="#FFAC33"/>
+  <line x1="20" y1="7" x2="20" y2="10" stroke="#FFAC33" stroke-width="1"/>
+  <line x1="17.5" y1="8" x2="22.5" y2="8" stroke="#FFAC33" stroke-width="1"/>
+  <line x1="18" y1="6" x2="22" y2="10" stroke="#FFAC33" stroke-width="1"/>
+</svg>
