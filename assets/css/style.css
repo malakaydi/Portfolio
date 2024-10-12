@@ -584,6 +584,8 @@ main {
 }
 
 
+
+
 /**
  * #testimonials 
  */
@@ -1663,6 +1665,18 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .service-content-box { text-align: left; }
+  .service-item:hover {
+    background: var(--bg-gradient-yellow-1); /* Hover background */
+  }
+
+  .service-item:hover::before {
+    background: var(--bg-gradient-yellow-2); /* Hover background for the inner part */
+  }
+
+  .service-item:hover .service-icon-box img {
+    filter: brightness(1.2);
+  }
+  
 
   /* testimonials */
 
